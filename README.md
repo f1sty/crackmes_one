@@ -6,7 +6,7 @@
 
 ## Used tools.
 
-### Reverse engeneering:
+### Reverse engineering:
 
 1. [IDA Freeware](https://out7.hex-rays.com/files/idafree70_linux.run) 7.0.180126 Linux x86_64 (64-bit address size)
 2. [Cutter](https://github.com/radareorg/cutter) 1.7.4 - GUI for [radare2](http://beta.rada.re/en/latest/) reverse engineering framework
