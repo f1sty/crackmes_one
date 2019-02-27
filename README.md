@@ -13,4 +13,4 @@
 
 ### Solution programming languages:
 
-Beautiful [Elixir](https://elixir-lang.org/) language, that brings dev joy :happy:
+Beautiful [Elixir](https://elixir-lang.org/) language, that brings dev joy ;-).
